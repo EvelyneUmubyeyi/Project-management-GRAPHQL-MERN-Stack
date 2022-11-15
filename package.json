@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
-    "dev":"nodemon server/index.js"
+    "dev": "nodemon server/index.js"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +15,6 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-graphql": "^0.12.0",
-    "graphql": "^15.8.0",
     "mongoose": "^6.7.2"
   },
   "devDependencies": {
